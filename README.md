@@ -10,5 +10,5 @@
 ## Run Command
 `node server.js`
 
-### Project By
+## Project By
 `Joe Freddie Cheeran` & `Kiran Muraleedharan`
